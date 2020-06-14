@@ -8,7 +8,7 @@ and by NO MEANS should anything from these be used in your project for the same 
 Projects are done with templates (if given) from Harvard and I have filled in the missing code to implement the knowledge
 that I have learned from this course.
 
-The code I implemented is documented with internal comments (Original comments are left alone).
+The code I implemented (the way I understand/interpret the best solution I am capable of) is documented with internal comments (Original comments are left alone).
 
 The .py files for each project will be included (as I did this in PyCharm, which has a bunch of other directories/files
 within this project that is not 100% required for function)

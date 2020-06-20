@@ -1,0 +1,7 @@
+For this to work, you would need to get and unzip the gtsrb from the website.
+
+I do not know why the program did not run through command line (had an issue with ModuleNotFoundError: No module named 'cv2')
+so I ended up modifying other parts of the script so it would have the same functionality.
+(I ended up moving everything that would be done into the script, so it could be ran directly from PyCharm)
+
+The accuracy could be better with some tweaking, but I know the concepts and what should be done so I decided to move on for now.
